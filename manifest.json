@@ -1,0 +1,32 @@
+{
+  "name": "কোমায়ো পাতা",
+  "short_name": "কোমায়ো",
+  "description": "পূর্ণিমার রহস্যময় আলোতে, জাপানি লোককাহিনীর একটি জাদুকরী ইয়োকাই কোমায়োর গল্প আবিষ্কার করুন। প্রলোভনসঙ্কুল এবং মারাত্মক, সে হারিয়ে যাওয়া আত্মাদের ওগির খেলায় প্রলুব্ধ করে, তাদের জীবন শক্তি শোষণ করে এবং তাদের চিরন্তন যন্ত্রণার জন্য ধ্বংস করে দেয়। এটি মারাত্মক আকর্ষণ এবং অনিয়ন্ত্রিত আকাঙ্ক্ষার গল্প, প্রলোভনের বিপদের বিরুদ্ধে একটি মর্মান্তিক সতর্কতা।",
+  "lang": "bn",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "android-chrome-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "favicon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
